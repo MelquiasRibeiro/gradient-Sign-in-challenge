@@ -24,7 +24,7 @@ main._background{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-image: url(../Assets/Background.png);
+    background-image: url(./Assets/Background.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -56,7 +56,7 @@ main._background{
     justify-content: flex-start;
     border-radius: 0.5rem 0 0 0.5rem ;
     padding: 4rem ;
-    background-image: url(../Assets/iPhone\ Mockup.png);
+    background-image: url(./Assets/iPhone\ Mockup.png);
     background-size: contain;
     background-position: bottom center;
     background-repeat: no-repeat;
